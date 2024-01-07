@@ -65,7 +65,7 @@
         {
             "image" : "images/projects/personalfinance.gif",
             "title": "A personal finance application",
-            "bodyText": "- A application written in C that is able to help you with managing your expenses \n - Sign up and sign in of users \n - Add, update or remove expenses \n Log out \n Listing of expenses by category or all of them",
+            "bodyText": "- A application written in C that is able to help you with managing your expenses \n - Sign up and sign in of users \n - Add, update or remove expenses \n - Log out \n - Listing of expenses by category or all of them",
             "links": [
                 {
                     "text": "GitHub",
