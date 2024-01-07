@@ -1,0 +1,14 @@
+{
+    "education":[
+        {
+            "title": "Dec 2023 - Out 2024",
+            "cardTitle": "Postgraduate Degree in Information Security",
+            "cardSubtitle":"Faculdade Anhanguera, São Paulo"
+        },
+        {
+            "title": "Jan 2019 - Jul 2023",
+            "cardTitle": "Bachelor in Information Systems",
+            "cardSubtitle":"Instituto Federal de Alagoas, Arapiraca"
+        }
+    ]
+}

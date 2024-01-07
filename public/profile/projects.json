@@ -1,0 +1,94 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/arapiracanewsbot.gif",
+            "title": "Arapiraca News Bot",
+            "bodyText": "- A telegram bot written in Python to scrape news from the Arapiraca City\n -  Beautiful soup for scraping data\n - Time to live caching of recently accessed news\n - Unit tests implemented with the unittest lib",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/eduardovitor/ArapiracaNewsBot"
+                }
+            ],
+            "tags" : [
+                "Python"
+            ]
+        },
+        {
+            "image" : "images/projects/roles.gif",
+            "title": "A social media for scheduling informal events with friends - RolêsApp",
+            "bodyText": "- This project is an MVP and refers to the idea of a social network aimed at marking informal social events (Rolês). It would be possible to call friends to leave when setting date, time and details of the meetup. In addition, it would be possible to interact in friends' meetup posts. \n - Use of unit tests \n - Use of design patterns such as Facade and Singleton \n - Use of MVC architecture",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/eduardovitor/RolesApp-TrabalhoPGMV"
+                }
+            ],
+            "tags" : [
+                "Flutter",
+                "sqlite"
+            ]
+        },
+        {
+            "image" : "images/projects/agendamento.gif",
+            "title": "Customer scheduling application for the Belle de Jour Company",
+            "bodyText": "- This project refers to a client scheduling application MVP made for the company Belle de Jour (a women's tanning company). Customers usually schedule a time to go to the company to sunbathe. \n - Customers can sign up.\n - Customers can sign in.\n - Customers can set up an appointment.\n",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/eduardovitor/AplicativoAgendamentoBelleDeJour"
+                }
+            ],
+            "tags" : [
+                "Typescript",
+                "Angular",
+                "Ionic",
+                "HTML",
+                "CSS",
+                "MongoDB"
+            ]
+        },
+        {
+            "image" : "images/projects/photoeditor.gif",
+            "title": "A photo editor with filters of computer vision (OpenCV)",
+            "bodyText": "- A photo editor that uses OpenCV filters \n - Apply computational vision filters (Blur, 2dfilter, MediaNblur, Gaussianblur, Sobel, Laplacian, Dilate, Erode) in images\n - Crop images \n - Rotate images \n - Save the edited image",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/eduardovitor/PhotoEditorOpenCv"
+                }
+            ],
+            "tags" : [
+                "Flutter"
+            ]
+        },
+        {
+            "image" : "images/projects/personalfinance.gif",
+            "title": "A personal finance application",
+            "bodyText": "- A application written in C that is able to help you with managing your expenses \n - Sign up and sign in of users \n - Add, update or remove expenses \n Log out \n Listing of expenses by category or all of them",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/eduardovitor/ControleGastosPessoais-C"
+                }
+            ],
+            "tags" : [
+                "C"
+            ]
+        },
+        {
+            "image" : "",
+            "title": "Rest API - Customer scheduling application (Belle de Jour)",
+            "bodyText": "- A Rest API written in PHP to communicate with the customer scheduling app\n - Route for sign up of clients \n - Route for sign in of clients \n - Route for listing appointments \n - Route for adding appointments ",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/eduardovitor/API-app-BelledeJour"
+                }
+            ],
+            "tags" : [
+                "PHP"
+            ]
+        }
+    ]
+}
