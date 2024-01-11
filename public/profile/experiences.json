@@ -5,68 +5,56 @@
             "subtitle": "Observatório Social do Brasil São Paulo",
             "workType": "Volunteering",
             "workDescription": [
-                "Creation of public data extraction scripts",
-                "Analysis and interpretation of public data",
-                "Extracting data into spreadsheets",
-                "Creation of interactive panels to simplify the information collected in the legislative monitoring process."
+               "Creation of scripts for extracting and analyzing public data, transforming complex information into valuable insights.",
+               "Additionally, I developed interactive dashboards to simplify legislative monitoring, facilitating understanding and decision-making."
             ],
             "dateText": "11/2023 – Present"
         },
         {
-            "title": "IT course instructor",
+            "title": "Tech instructor",
             "subtitle": "Udemy",
             "workType": "Self-employed",
             "workDescription": [
-                "https://www.udemy.com/user/eduardo-vitor-vieira-torres/",
-                "Development of a course on how to use AI to boost studies' productivity in Brazilian Portuguese"
+               "As an instructor at Udemy, I have the opportunity to share my technology knowledge with thousands of students, inspiring the formation of possible new talents."
             ],
             "dateText": "10/2023 – Present"
         },
         {
-            "title": "Introduction to programming course instructor (Javascript)",
+            "title": "Programming instructor",
             "subtitle": "Instituto Federal de Alagoas - DIT",
             "workType": "Part-time (temporary)",
             "workDescription": [
-                "Prepare Javascript classes for the students",
-                "Prepare Javascript exercises",
-                "Development of example codes to be shown in class",
-                "Evaluate students' performance"
+                "As an instructor at the Mobile Applications Laboratory at IFAL Campus Arapiraca, I had the opportunity to shape young minds in programming with Javascript.",
+                "I prepared engaging classes, developed code examples and evaluated student performance, ensuring their continued growth."
             ],
             "dateText": "03/2023 – 04/2023"
         },
         {
-            "title": "Reliability Researcher | SRE",
+            "title": "Researcher",
             "subtitle": "VTEX Lab",
             "workType": "Part-time",
             "workDescription": [
-                "Carry out load tests and analyze their results to guide infrastructure decisions related to a critical service",
-                "Use of Terraform and Ansible to describe this critical service",
-                "Create a tool to ease creating, monitoring and destroying of infrastructure environments using IAC technologies",
-                "Understanding application profiling to improve the performance of an SSR application"
+               "As a researcher in the Tinyverse@VTEX Lab project, I worked on optimizing the performance of the VTEX machine infrastructure.",
+               "I developed a Go tool to manage infrastructure environments."
             ],
             "dateText": "07/2021 – 01/2023"
         },
         {
-            "title": "Mobile development course instructor (Flutter)",
+            "title": "Mobile programming instructor",
             "subtitle": "Instituto Federal de Alagoas - DIT",
             "workType": "Part-time (temporary)",
             "workDescription": [
-                "Prepare Flutter classes for the students",
-                "Prepare Flutter exercises",
-                "Development of example applications to be shown in class",
-                "Evaluate students' performance"
+                "As an instructor at the Mobile Applications Laboratory at IFAL Campus Arapiraca, I had the opportunity to inspire students through teaching Flutter.",
+                "I created engaging classes, developed example applications and evaluated student performance, ensuring their continued progress."
             ],
             "dateText": "08/2022 – 11/2022"
         },
         {
-            "title": "Mobile Developer",
+            "title": "Researcher",
             "subtitle": "Instituto Federal de Alagoas",
-            "workType": "Research project at college - Part-Time",
+            "workType": "Part-Time",
             "workDescription": [
-                "Development of a visual prototype of the application using Figma",
-                "Development of application screens using the Ionic and Angular frameworks and Gitlab to store the code repository",
-                "Development had HTML and CSS for the frontend and Typescript for integration with the backend that had a NodeJS API and a MySQL database",
-                "Development of an ERD model for the application database"
+                "I contributed to the development of a gamified version of PreparaIF, an application that prepares students for the IFAL selection exam."
             ],
             "dateText": "09/2020 – 07/2021"
         }
